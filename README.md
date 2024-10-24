@@ -1,4 +1,4 @@
-# SNP to Gene - SnpEff-VEP
+# SNP to Gene - SnpEff-VEP-ANNOVAR
 
 ### Overview
 This repository contains tools for mapping SNPs (Single Nucleotide Polymorphisms) from Genome Build 37 to corresponding genes in the Ensembl and RefSeq databases using SnpEff, VEP, and Annovar. Additionally, it retrieves enhancer-linked genes from Peregrine.
